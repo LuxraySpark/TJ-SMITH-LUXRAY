@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.tjsmithluxray" name="TJ SMITH LUXRAY REPO" version="1.2" provider-name="TJ SMITH">
+	<extension point="xbmc.addon.repository" name="TJ SMITH LUXRAY REPO">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/jdig4240/repository.diggz/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/jdig4240/repository.diggz/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/jdig4240/repository.diggz/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Repo for TJ SMITH LUXRAY </summary>
+		<description lang="en">Update and install TJ SMITH LUXRAY builds</description>
+		<genre></genre>
+	</extension>
+</addon>
